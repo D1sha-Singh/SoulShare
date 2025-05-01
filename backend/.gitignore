@@ -1,1 +1,7 @@
 node_modules
+.env
+APIs.text
+DB.text
+HLD.text
+ProjectDetails.text
+Routes.text
